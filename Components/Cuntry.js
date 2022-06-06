@@ -13,5 +13,6 @@ export default function Cuntry({ cuntry }) {
             ></Image>
         </View>
     )
+
 }
 
