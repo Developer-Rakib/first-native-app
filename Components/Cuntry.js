@@ -4,7 +4,6 @@ import React from 'react'
 export default function Cuntry({ cuntry }) {
     return (
         <View>
-
             <Text>{cuntry.name.common}</Text>
             <Image
                 source={{
