@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Cuntries from './Components/Cuntries';
 
 export default function App() {
+  
   return (
     <View >
       <Text>Visit Cuntry</Text>
