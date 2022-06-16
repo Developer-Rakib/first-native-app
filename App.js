@@ -5,6 +5,7 @@ import Cuntries from './Components/Cuntries';
 export default function App() {
   return (
     <View >
+    
       <Text>Visit Cuntry</Text>
       <Cuntries></Cuntries>
       <StatusBar style="auto" />
