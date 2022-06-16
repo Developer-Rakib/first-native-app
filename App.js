@@ -8,6 +8,7 @@ export default function App() {
       <Text>Visit Cuntry</Text>
       <Cuntries></Cuntries>
       <StatusBar style="auto" />
+    
     </View>
   );
 }
